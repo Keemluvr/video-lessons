@@ -8,7 +8,6 @@ import { bindActionCreators } from "redux";
 import * as S from "./styled";
 
 const Sidebar = ({ modules, toggleLesson }) => {
-  const [buttonActive, setButtonActive] = useState(false);
   const [chosenClass, setChosenClass] = useState(false);
 
   const handleButtonChoiceLesson = (e, module, lesson) => {
