@@ -1,3 +1,9 @@
+# :blue_book: Video Lessons
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/08999e79-4c9a-49df-9ce0-feb7d3838c8f/deploy-status)](https://app.netlify.com/sites/video-lessons-redux/deploys)
+
+![screenshot Video Lessons](https://i.imgur.com/sGigzYe.png)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
